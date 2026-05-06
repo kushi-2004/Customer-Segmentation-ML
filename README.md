@@ -40,3 +40,4 @@ Cluster 2 (New/Average): Newer customers with moderate spending habits. Strategy
 
 1. Install dependencies: `pip install pandas scikit-learn seaborn matplotlib`
 2. Run the Python script or Notebook.
+<img width="787" height="707" alt="Screenshot 2026-05-06 165819" src="https://github.com/user-attachments/assets/f5cad222-4945-4431-b833-c6c545b336f0" />
